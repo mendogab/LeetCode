@@ -1,2 +1,2 @@
-# LeetCode1
+# LeetCode
 Add code here.
