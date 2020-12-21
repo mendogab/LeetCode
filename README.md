@@ -1,2 +1,2 @@
 # LeetCode
-Add code here.
+Store code here.
