@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a414db-8a4b-4a2b-a07a-4ada7a0c7d6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/SearchInsertPosition.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lzP5glqrLVoW7JPih1h0MfHrPQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a414db-8a4b-4a2b-a07a-4ada7a0c7d6c" name="Default Changelist" comment="" />
+      <created>1608596765067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608596765067</updated>
+      <workItem from="1608596768658" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="173" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1608596768313">
+      <screen x="0" y="23" width="1920" height="971" />
+    </state>
+    <state x="173" y="340" key="com.intellij.ide.util.TipDialog/0.23.1920.971/1920.23.1680.1027@0.23.1920.971" timestamp="1608596768313" />
+  </component>
+</project>

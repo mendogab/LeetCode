@@ -2,9 +2,13 @@ package main.Java;
 
 import java.util.Arrays;
 
-// Given a sorted array of distinct integers and a target value,
-// return the index if the target is found.If not,
-// return the index where it would be if it were inserted in order.
+/*
+ *  Given a sorted array of distinct integers and a target value,
+ *  return the index if the target is found.If not,
+ *  return the index where it would be if it were inserted in order.
+ */
+
+
 public class SearchInsertPosition {
   public static void main(String[] args) {
     System.out.println(searchInsert(new int[]{1,3,5,6}, 7));
